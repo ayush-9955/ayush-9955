@@ -102,14 +102,6 @@ Compared **actual sales vs budget targets** to evaluate business performance.
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-9955&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
