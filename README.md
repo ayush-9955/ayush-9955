@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm [Ayush Kumar]</h1>
-<h3 align="center">📊 Data Analyst | Python | SQL | Power BI | Excel</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Ayush%20Kumar&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+<h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
@@ -7,49 +11,86 @@
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-🔹 Passionate **Data Analyst** who loves transforming raw data into meaningful insights.  
-🔹 Skilled in **data cleaning, visualization, dashboards, and analytics**.  
-🔹 Experienced with **Python, SQL, Power BI, and Excel** for business insights.  
-🔹 Always learning new tools in the **data ecosystem**.
+I am an **Aspiring Data Analyst** currently pursuing **Computer Science Engineering at Chandigarh University**.  
+
+I am passionate about **transforming raw data into meaningful insights** that help organizations make **data-driven decisions**.
+
+I enjoy:
+
+📊 Exploring datasets  
+📈 Finding patterns and trends  
+📉 Creating clear visualizations  
+📊 Building dashboards for business insights  
+
+My goal is to **solve real-world business problems using data analytics and visualization tools**.
 
 ---
 
-## 🛠️ Skills & Tools
+# 🎓 Education
 
-### 📊 Data Analysis
+🎓 **Bachelor of Engineering (Computer Science & Engineering)**  
+🏫 Chandigarh University  
+📅 2022 – 2026
+
+---
+
+# 🛠️ Skills & Tools
+
+## 📊 Data Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 📈 Data Visualization
+## 📈 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### 🗄️ Databases
+## 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+# 📂 Data Analytics Projects
 
-### 📊 Sales Data Analysis
-- Cleaned and analyzed sales data using **Python & Pandas**
-- Created **interactive dashboards in Power BI**
-- Identified key business insights and trends
+## 🛒 Customer Shopping Behavior Analysis
+Analyzed customer purchasing patterns to understand:
 
-### 📈 Customer Segmentation
-- Used **Python for clustering analysis**
-- Visualized customer segments for marketing strategy
+- Buying behavior
+- Product preferences
+- Spending trends
 
-### 🗃️ SQL Data Exploration
-- Wrote complex SQL queries for **data extraction & reporting**
+📌 Goal: Extract insights for **better marketing and customer targeting**
 
 ---
 
-## 📊 GitHub Stats
+## 🚕 Uber Rides Data Analysis
+
+Analyzed ride booking data to identify:
+
+- Peak ride hours
+- Demand patterns
+- Trip distribution
+
+📌 Goal: Improve **ride availability and service efficiency**
+
+---
+
+## 💰 Sales Budget Performance Analysis
+
+Compared **actual sales vs budget targets** to evaluate business performance.
+
+📊 Insights included:
+
+- Overperformance areas
+- Underperformance areas
+- Strategic improvement opportunities
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
@@ -61,7 +102,7 @@
 
 ---
 
-## 📈 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
@@ -69,26 +110,28 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOURPROFILE" target="blank">
+
+<a href="https://www.linkedin.com/in/ayush-kumar-88b83b249">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:ayushkumar106666@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
-📊 I love turning **messy data into beautiful dashboards**.
+📊 I love turning **messy datasets into meaningful dashboards and insights.**
 
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile ✨
+⭐ From [Ayush Kumar](https://github.com/YOURUSERNAME)
 </p>
