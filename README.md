@@ -105,7 +105,7 @@ Compared **actual sales vs budget targets** to evaluate business performance.
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-9955&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -133,5 +133,5 @@ Compared **actual sales vs budget targets** to evaluate business performance.
 ---
 
 <p align="center">
-⭐ From [Ayush Kumar](https://github.com/YOURUSERNAME)
+⭐ From [Ayush Kumar](https://github.com/ayush-9955)
 </p>
